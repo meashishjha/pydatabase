@@ -13,3 +13,7 @@
 # furnishing, performance, or use of these programs.                        #
 #############################################################################
 
+
+#connect to Redis Instance
+
+#REST operations
